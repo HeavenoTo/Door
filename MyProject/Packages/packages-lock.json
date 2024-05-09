@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "fbe0bf85155f42f8832205f7b3ac3df571ada33e"
     },
+    "com.iwin.remotefileexplorer": {
+      "version": "https://github.com/iwiniwin/unity-remote-file-explorer.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8aabfed633f924b4b18e8278ce59484d19909391"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.12",
       "depth": 1,
